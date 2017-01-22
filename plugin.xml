@@ -4,7 +4,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     id="cordova-plugin-livereload"
-    version="1.0.0-dev">
+    version="1.0.0">
     <name>cordova-plugin-livereload</name>
     <description>Plugin to enable livereload and gestures synchronization across devices for Cordova</description>
     <license>MIT</license>
